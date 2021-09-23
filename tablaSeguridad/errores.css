@@ -1,0 +1,24 @@
+body {
+    padding-top: 55px;
+}
+
+.div {
+    margin-right: 45px;
+    margin-left: 35px;
+}
+
+.errores {
+    -webkit-boxshadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    background: red;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    color: #fff;
+    display: none;
+    font-size: 13px;
+    margin-top: -30px;
+    margin-left: 183px;
+    padding: 5px;
+    width: 150px;
+    position: absolute;
+}

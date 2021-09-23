@@ -1,0 +1,18 @@
+.tabla {
+    width: 80%;
+    background-color: antiquewhite;
+}
+
+.agregar {
+    margin-left: 100px;
+    width: 8%;
+    padding: 6px;
+}
+
+#h2 {
+    color: white;
+}
+
+.for {
+    margin-bottom: 50%;
+}

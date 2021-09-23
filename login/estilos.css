@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../imagenes/cosal11.jpg);
+    position: relative;
+    background-size: auto;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+#login .container #login-row #login-column #login-box {
+    margin-top: 70px;
+    max-width: 600px;
+    height: 300px;
+    box-shadow: 2px 2px 2px 2px #343a40;
+    border-radius: 3px;
+}

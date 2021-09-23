@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(imagenes/cosal13.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: normal;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+p {
+    size: 25px;
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.tabla {
+    margin: auto;
+    width: 80%;
+    background: black;
+    margin-bottom: 20px;
+}
+
+th.imagen {
+    padding: 0px;
+}
+
+a {
+    color: lightgreen;
+    size: 20px;
+    margin-left: 20px;
+}
+
+a:hover {
+    color: beige;
+}
+
+header {
+    background-color: chocolate;
+    padding: 10px;
+}

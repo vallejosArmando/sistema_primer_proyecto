@@ -1,0 +1,162 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(imagenes/cosal3.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 2px 2px 1px #000;
+}
+
+#form1 {
+    margin: auto;
+    font-family: Roboto;
+    background-color: #04010ca9;
+    width: 50%;
+    border-radius: 40px;
+    margin-bottom: 80px;
+    background-size: 90px;
+    outline: none;
+    padding: 30px;
+    margin-top: 0px;
+    min-width: 300px;
+}
+
+.fff {
+    margin-top: 0%;
+}
+
+.leg {
+    margin-bottom: 30px;
+    background-color: rgb(190, 220, 229);
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    background: rgba(247, 247, 247, 0.959);
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #121412;
+    width: 50%;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    text-justify: auto;
+    margin-right: 10px;
+    min-width: 245px;
+}
+
+select {
+    background: rgba(247, 247, 247, 0.959);
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #101810;
+    width: 50%;
+    padding: 6px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border-radius: 10px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    text-justify: auto;
+    margin-right: 10px;
+    min-width: 245px;
+}
+
+textarea {
+    background: rgba(247, 247, 247, 0.959);
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #101810;
+    width: 50%;
+    padding: 6px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border-radius: 10px;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    text-justify: auto;
+    margin-right: 10px;
+    min-width: 245px;
+}
+
+.boton {
+    margin-left: 18px;
+    width: 0%;
+    padding: 3px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+    background: #d1d0c4;
+    color: #000;
+    font-weight: bold;
+    min-width: 200px;
+    margin-top: 20px;
+}
+
+.boton:hover {
+    background: rgb(9, 228, 96);
+}
+
+.boton2 {
+    margin-left: 18px;
+    width: 0%;
+    padding: 3px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+    background: #fdfdfd;
+    color: rgb(121, 113, 113);
+    font-weight: bold;
+    min-width: 200px;
+}
+
+.boton2:hover {
+    background: rgb(225, 253, 122);
+}
+
+fieldset {
+    font-size: 17px;
+    color: #f8d409;
+    min-width: 250px;
+}
+
+#div label {
+    width: 10%;
+    text-align: left;
+    flex-wrap: wrap;
+    display: flex;
+    flex: 1;
+    margin-bottom: auto;
+}
+
+label {
+    min-width: 250px;
+}
+
+#div {
+    flex-wrap: wrap;
+    display: flex;
+    min-width: 245px;
+    border-radius: 8px;
+}
+
+#div:hover {
+    color: #fff;
+    background-color: rgb(255, 132, 9);
+}
